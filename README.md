@@ -11,4 +11,4 @@
 
 ### Interface criada: Course now
 
-<img src="./img/project.jpg" alt="Print do projeto"/>
+<img src="./img/project.JPG" alt="Print do projeto"/>
